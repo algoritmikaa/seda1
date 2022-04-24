@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid navy;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px;
+}
+
+header a {
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    background-color: navy;
+    border: 1px solid navy;
+    font-size: 15px;
+    margin: 20px;
+    text-decoration: none;
+}
+
+h1 {
+    color: yellow;
+}
+
+footer p {
+    background-color: white;
+    color: black;
+    border: 5px solid black;
+}
+
+footer {
+    background-color: pink;
+    padding: 3px;
+}
+
+nav a {
+    background-color: navy;
+    color: white;
+    border: 1px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.seda {
+   border: 2px solid navy;
+   color: navy;
+   background-color: white;
+}
+
+.sedaa {
+    border: 5px solid navy;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.sedaaa {
+    color: blue;
+}
+
+.seda1 {
+    border: 2px solid blue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+}
